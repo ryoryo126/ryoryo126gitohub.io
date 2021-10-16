@@ -1,0 +1,6 @@
+h1{
+  /*フォントサイズ、下の余白、下の下線*/
+  font-size:24px;
+  padding-bottom:8px;
+  border-bottom:2px solid #ddd;
+}
